@@ -97,25 +97,6 @@ h2{
     width: 33.33%;
 }
 
-footer{
-    padding: 20px;
-    margin: 5px;
-    bottom: 0;
-    width: 100%;
-    background: #111;
-    
-   
-}
-.main-content{
-    display: flex;
-    color: white;
-}
-
-.left-box{
-  width: 60%;
-  margin: 10px;
-  padding: 15px;
-}
 
 
 #foodie-font{
@@ -147,6 +128,27 @@ footer{
 .reviews{
     margin: 30px;
     padding: 2px 20px;
-    background-color: #6ff1f1;
+    background-color: #63cfcf;
 
+}
+
+footer{
+    padding: 20px;
+    margin: 5px;
+    bottom: 0;
+    width: 100%;
+    background: #0f0f0f;
+
+    
+   
+}
+.main-content{
+    display: flex;
+    color:white;
+}
+
+.left-box{
+  width: 60%;
+  margin: 10px;
+  padding: 15px;
 }
